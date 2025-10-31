@@ -79,9 +79,6 @@ Este proyecto busca determinar **si un paciente tiene o no una enfermedad cardí
 
 ---
 
-## 💻 Enlace al Notebook en Google Colab
-📘 **Notebook:** [Abrir en Google Colab](https://colab.research.google.com/drive/XXXXXXXXXXXX)  
-> *(Reemplaza el enlace con tu notebook público de Google Drive o GitHub)*
 
 ---
 

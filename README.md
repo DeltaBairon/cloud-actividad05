@@ -91,5 +91,6 @@ Este proyecto busca determinar **si un paciente tiene o no una enfermedad cardí
 
 **Enlace de la sustentación:**
 ```bash
-https://drive.google.com/file/d/1ZekyxLzJ1GoXKzymUpRjv4Zen9LR8-Md/view?usp=sharing
+https://drive.google.com/file/d/1HgXQwCzHBsEBapPnMawTJG2NkHc7aJob/view?usp=sharing
+
 

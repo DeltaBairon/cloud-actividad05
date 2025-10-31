@@ -89,7 +89,7 @@ Este proyecto busca determinar **si un paciente tiene o no una enfermedad cardí
 4. Si es necesario, monta tu Google Drive y actualiza la ruta de los datos.  
 5. Revisa los resultados en las secciones de EDA, Modelado y Conclusiones.
 
-**Dependencias principales:**
+**Enlace de la sustentación:**
 ```bash
-pip install pandas numpy seaborn matplotlib scikit-learn plotly
+https://drive.google.com/file/d/1ZekyxLzJ1GoXKzymUpRjv4Zen9LR8-Md/view?usp=sharing
 
